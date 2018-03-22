@@ -56,7 +56,7 @@ and open the template in the editor.
 
 
 .carousel-indicators{bottom: 0;}
-.carousel-indicators li{ padding-top: 15px; background-color: #63c0db; transition: all 400ms ease;}
+.carousel-indicato₢rs li{ padding-top: 15px; background-color: #63c0db; transition: all 400ms ease;}
 .carousel-indicators .active{
     background-color: #63c0db;
     transition: 200ms;
